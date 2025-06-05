@@ -1,4 +1,5 @@
-<h2>Hey 👋, my name is Leonardo Borges</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=5ce1e6&vCenter=true&width=800&lines=Hellou%2C+im+Leonardo+Borges!;Welcome+to+my+portfolio!)
+
 <p>
   💻 FullStack & Mobile Developer passionate about creating intuitive and scalable digital experiences. With a degree in Computer Science from the State University of Northern Paraná, I began my journey in technology at the age of 18.
 </p>
