@@ -17,7 +17,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<img align="right" src="./assets/foto3.jpeg" style="border-radius: 50%;width: 250px;height: auto" />
+<img 
+  src="./assets/foto3.jpeg" 
+  width="250" 
+  height="250"
+  style="border-radius: 50%; object-fit: cover; float: right; margin: 20px 0 0 20px;" 
+/>
 <h2>⚡️ Some facts about me</h2>
 <ul>
 <li>🎓 Graduated in <strong>computer science</strong> at <strong>UENP</strong> (2021-2024)</li>
