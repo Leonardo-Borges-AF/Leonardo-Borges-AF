@@ -25,7 +25,7 @@
 />
 <h2>⚡️ Some facts about me</h2>
 <ul>
-<li>🎓 Graduated in <strong>computer science</strong> at <strong>UENP</strong> (2021-2024)</li>
+<li>🎓 Graduated in <strong>computer science</strong> at <strong>UENP</strong> (2021-2025)</li>
 <li>🏆 I was awarded in <strong>2 hackathons</strong>, both with <strong>web/mobile development</strong></li>
 <li>🗺️ Countries where I have worked as a developer:
   <ul> 
@@ -104,4 +104,5 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
+
 
